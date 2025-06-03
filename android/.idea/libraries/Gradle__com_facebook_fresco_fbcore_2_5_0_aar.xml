@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Gradle: com.facebook.fresco:fbcore:2.5.0@aar">
+  <library name="Gradle: com.facebook.fresco:fbcore:2.5.0@aar" external-system-id="GRADLE">
     <ANNOTATIONS>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/771ea80bf5f424d049a6ee128e8dac89/transformed/jetified-fbcore-2.5.0/annotations.zip!/" />
     </ANNOTATIONS>

@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Gradle: com.facebook.fresco:imagepipeline:2.5.0@aar">
+  <library name="Gradle: com.facebook.fresco:imagepipeline:2.5.0@aar" external-system-id="GRADLE">
     <ANNOTATIONS>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ef22a19c3ea50879d1def0632d57f4cc/transformed/jetified-imagepipeline-2.5.0/annotations.zip!/" />
     </ANNOTATIONS>

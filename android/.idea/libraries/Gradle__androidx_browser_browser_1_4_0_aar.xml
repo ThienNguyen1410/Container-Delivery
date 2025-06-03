@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Gradle: androidx.browser:browser:1.4.0@aar">
+  <library name="Gradle: androidx.browser:browser:1.4.0@aar" external-system-id="GRADLE">
     <ANNOTATIONS>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/34d0b79d2d91caee04f08e4a2c1cd9c6/transformed/browser-1.4.0/annotations.zip!/" />
     </ANNOTATIONS>
