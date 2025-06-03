@@ -1,9 +1,12 @@
 package com.sontrinh.logistic;
 
+import android.os.Bundle;
+
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
 import com.facebook.react.ReactRootView;
 import com.sontrinh.logistic.BuildConfig;
+import org.devio.rn.splashscreen.SplashScreen;
 
 
 public class MainActivity extends ReactActivity {
@@ -15,6 +18,12 @@ public class MainActivity extends ReactActivity {
   @Override
   protected String getMainComponentName() {
     return "DeliveryApp";
+  }
+
+  @Override
+  protected void onCreate(Bundle savedInstanceState) {
+    SplashScreen.show(this);
+    super.onCreate(savedInstanceState);
   }
 
   /**
