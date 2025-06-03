@@ -14,7 +14,7 @@ export interface StoreModel {
   customer: CustomerModel;
   driver: DriverModel;
   driverOrder: DriverOrderModel;
-  customerOrder: CustomerOrderModel;
+  customerOrder: CustomerOrderModel ;
 }
 
 export const store = createStore<StoreModel>({
